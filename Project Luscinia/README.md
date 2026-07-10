@@ -14,20 +14,7 @@ Project Luscinia is an immersive, 2D offline mobile game designed to educate pla
 <img src="https://i.imgur.com/cn3H3x2.png" alt="Task Complete & UI" width="200"/>
 
 ## Installation
-Executables can be obtained from project artifacts. To develop the project on your own, a Godot installation is needed and download the [luscinia folder](https://stgit.dcs.gla.ac.uk/team-project-h/2024/sh07/sh07-main/-/tree/main/luscinia?ref_type=heads). Use Godot to open the downloaded folder to develop the project in Godot.
-
-## Usage
-### **Installation**
-
-For PC:
-- Download the the latest .zip file named windows in project artifacts
-- Extract the zip into a destination of your choice
-- Run the .exe executable
-
-For Android:
-- Download the the latest .zip file named android in project artifacts
-- Extract the zip into a destination of your choice
-- Open the .apk on your android device to install the game and play
+Executables can be obtained [here](https://drive.google.com/drive/folders/1lKWNOAE_eaNNbrg_kGkKQOkSE1ea-xNJ?usp=sharing). To develop the project on your own, a Godot installation is needed and download the [luscinia zip file](https://github.com/nootlynoot/Portfolio/blob/main/Project%20Luscinia/luscinia.zip). Extract and use Godot to open the downloaded folder to develop the project in Godot.
 
 ### **Controls**
 For PC:
