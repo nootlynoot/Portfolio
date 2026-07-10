@@ -8,9 +8,6 @@ Luscinia
 ## Description
 Project Luscinia is an immersive, 2D offline mobile game designed to educate players on effective decision-making during humanitarian crises. Players step into the role of aid managers representing either charitable organizations or the Office for the Coordination of Humanitarian Affairs (OCHA). Through engaging, task-driven gameplay, players navigate realistic humanitarian scenarios where each decision significantly impacts the outcome, leading to diverse and meaningful narrative paths. Project Luscinia provides players with practical insights and experiential learning, preparing them to respond effectively to real-world humanitarian challenges.
 
-## Badges
-[![Pipeline Status](https://stgit.dcs.gla.ac.uk/team-project-h/2024/sh07/sh07-main/badges/main/pipeline.svg)](https://stgit.dcs.gla.ac.uk/team-project-h/2024/sh07/sh07-main/-/pipelines)
-
 ## Visuals
 <img src="https://i.imgur.com/DVEcXuc.png" alt="Main Screen" width="200"/>
 <img src="https://i.imgur.com/5kJrvsD.png" alt="Task Selection" width="200"/>
