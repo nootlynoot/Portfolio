@@ -12,7 +12,7 @@ Fencing Sabre is a 3D offline multiplayer PC game designed to introduce players 
 
 
 ## Visuals
-<img src="https://imgur.com/cbC9qHc.png" alt="Game Feature Poster" width="200"/>
+<img src="https://imgur.com/cbC9qHc.png" alt="Game Feature Poster"/>
 <img src="https://i.imgur.com/5kJrvsD.png" alt="Task Selection" width="200"/>
 <img src="https://i.imgur.com/cn3H3x2.png" alt="Task Complete & UI" width="200"/>
 
