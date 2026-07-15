@@ -10,11 +10,11 @@ Yin & Yang is an immersive, 3D offline PC tower defense game designed to challen
 
 ## Gameplay Walkthrough
 [![Gameplay Demo](https://imgur.com/4ti9xzi.png)](https://www.youtube.com/watch?v=2VShQS1PXtk)
-<p style="text-align:center;">click me.</p>
+<center>click me</center>
 
 ## Visuals
 <img src="https://imgur.com/olaI87l.png" alt="Tutorial Screenshot"/>
-<img src="https://imgur.com/NPOmNLf.png" alt="Buying and Wave Start"/>
+<center> <img src="https://imgur.com/NPOmNLf.png" alt="Buying and Wave Start"/> </center>
 <img src="https://imgur.com/qrnDLWh.png" alt="Yang Screenshot"/>
 
 ## Documentation
