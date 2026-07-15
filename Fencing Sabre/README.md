@@ -20,7 +20,7 @@ Fencing Sabre is a 3D offline multiplayer PC game designed to introduce players 
 The game design document can be viewed [here](https://docs.google.com/document/d/1ZEfQCb6htoS78uc_1AR_Lld9vVgEn8bO/edit?usp=sharing&ouid=114417624427908506984&rtpof=true&sd=true)
 
 ## Installation
-Executables can be obtained [here](https://drive.google.com/drive/folders/1lKWNOAE_eaNNbrg_kGkKQOkSE1ea-xNJ?usp=sharing).
+Executables can be obtained [here](https://drive.google.com/file/d/1uZwu0whFxhkBK7mVMlxzZJv0AFxnSdf6/view?usp=sharing).
 
 ## Play
 2 controllers are required for you to play the game. Simply load in, distribute your stat points, and get fencing!
