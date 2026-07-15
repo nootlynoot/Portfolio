@@ -10,6 +10,7 @@ Fencing Sabre is a 3D offline multiplayer PC game designed to introduce players 
 
 ## Gameplay Trailer
 [![Gameplay Demo](https://imgur.com/qyoexPE.png)](https://www.youtube.com/watch?v=tVvyGOZ8CYg)
+<p align="center">click to play</p>
 
 ## Visuals
 <img src="https://imgur.com/cbC9qHc.png" alt="Game Feature Poster"/>
