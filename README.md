@@ -6,4 +6,4 @@ Works displayed:
 - Ying & Yang - Single Player Tower Defense Game, Polytechnic 3rd Year Project
 
 <br>
-Unfortunately past professional work cannot be displayed due to NDA restrictions.
+Past professional work cannot be displayed due to NDA restrictions.
